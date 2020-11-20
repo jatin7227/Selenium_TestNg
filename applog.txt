@@ -1,0 +1,200 @@
+INFO    2020-10-22 15:00:23,179 [main] inetBankingV1  - URL is opened
+INFO    2020-10-22 15:00:26,557 [main] inetBankingV1  - Submitted data
+INFO    2020-10-22 15:00:31,573 [main] inetBankingV1  - tc pass
+INFO    2020-10-31 22:42:27,800 [main] inetBankingV1  - URL is opened
+INFO    2020-10-31 22:42:30,970 [main] inetBankingV1  - Submitted data
+INFO    2020-10-31 22:42:35,988 [main] inetBankingV1  - tc pass
+INFO    2020-10-31 22:52:33,175 [main] inetBankingV1  - URL is opened
+INFO    2020-10-31 22:52:37,002 [main] inetBankingV1  - Submitted data
+INFO    2020-10-31 22:56:19,148 [main] inetBankingV1  - URL is opened
+INFO    2020-10-31 22:57:42,868 [main] inetBankingV1  - URL is opened
+INFO    2020-10-31 22:59:44,071 [main] inetBankingV1  - URL is opened
+INFO    2020-10-31 22:59:47,062 [main] inetBankingV1  - Submitted data
+INFO    2020-10-31 22:59:52,076 [main] inetBankingV1  - tc pass
+INFO    2020-11-01 01:22:50,993 [main] inetBankingV1  - URL is opened
+INFO    2020-11-01 01:22:53,548 [main] inetBankingV1  - Submitted data
+INFO    2020-11-01 01:22:58,567 [main] inetBankingV1  - tc pass
+INFO    2020-11-01 01:29:07,156 [main] inetBankingV1  - URL is opened
+INFO    2020-11-01 01:29:09,677 [main] inetBankingV1  - Submitted data
+INFO    2020-11-01 01:29:14,691 [main] inetBankingV1  - tc pass
+INFO    2020-11-01 01:34:11,770 [main] inetBankingV1  - URL is opened
+INFO    2020-11-01 01:34:15,027 [main] inetBankingV1  - Submitted data
+INFO    2020-11-01 01:34:20,044 [main] inetBankingV1  - tc pass
+INFO    2020-11-01 01:51:38,347 [main] inetBankingV1  - URL is opened
+INFO    2020-11-01 01:51:41,747 [main] inetBankingV1  - Submitted data
+INFO    2020-11-01 01:51:46,762 [main] inetBankingV1  - tc pass
+INFO    2020-11-01 01:55:27,859 [main] inetBankingV1  - URL is opened
+INFO    2020-11-01 01:55:39,650 [main] inetBankingV1  - Submitted data
+INFO    2020-11-01 01:55:45,138 [main] inetBankingV1  - tc pass
+INFO    2020-11-01 01:58:59,957 [main] inetBankingV1  - URL is opened
+INFO    2020-11-01 01:59:05,408 [main] inetBankingV1  - Submitted data
+INFO    2020-11-01 01:59:10,418 [main] inetBankingV1  - tc pass
+INFO    2020-11-01 02:05:52,793 [main] inetBankingV1  - URL is opened
+INFO    2020-11-01 02:05:56,402 [main] inetBankingV1  - Submitted data
+INFO    2020-11-01 02:06:01,417 [main] inetBankingV1  - tc pass
+INFO    2020-11-04 00:29:11,047 [main] inetBankingV1  - URL is opened
+INFO    2020-11-04 00:30:21,487 [main] inetBankingV1  - URL is opened
+INFO    2020-11-04 00:30:22,379 [main] inetBankingV1  - Submitted data
+INFO    2020-11-04 11:03:52,169 [main] inetBankingV1  - URL is opened
+INFO    2020-11-04 11:03:55,724 [main] inetBankingV1  - Submitted data
+INFO    2020-11-04 11:04:00,748 [main] inetBankingV1  - tc pass
+INFO    2020-11-04 11:05:55,184 [main] inetBankingV1  - URL is opened
+INFO    2020-11-04 11:05:57,672 [main] inetBankingV1  - Submitted data
+INFO    2020-11-04 11:06:02,690 [main] inetBankingV1  - tc pass
+INFO    2020-11-04 11:11:20,533 [main] inetBankingV1  - URL is opened
+INFO    2020-11-04 11:11:23,316 [main] inetBankingV1  - Submitted data
+INFO    2020-11-04 11:11:28,331 [main] inetBankingV1  - tc pass
+INFO    2020-11-04 11:19:21,543 [main] inetBankingV1  - URL is opened
+INFO    2020-11-04 11:19:26,596 [main] inetBankingV1  - Submitted data
+INFO    2020-11-04 11:19:31,621 [main] inetBankingV1  - tc pass
+INFO    2020-11-07 15:22:47,123 [main] inetBankingV1  - username provided
+INFO    2020-11-07 15:22:47,161 [main] inetBankingV1  - passwd provided
+INFO    2020-11-07 15:22:56,336 [main] inetBankingV1  - username provided
+INFO    2020-11-07 15:22:56,408 [main] inetBankingV1  - passwd provided
+INFO    2020-11-07 15:44:47,216 [main] inetBankingV1  - username provided
+INFO    2020-11-07 15:44:47,478 [main] inetBankingV1  - passwd provided
+INFO    2020-11-07 15:44:57,540 [main] inetBankingV1  - username provided
+INFO    2020-11-07 15:44:57,575 [main] inetBankingV1  - passwd provided
+INFO    2020-11-07 16:04:08,584 [main] inetBankingV1  - username provided
+INFO    2020-11-07 16:04:08,625 [main] inetBankingV1  - passwd provided
+INFO    2020-11-07 16:04:16,983 [main] inetBankingV1  - login passed
+INFO    2020-11-07 16:04:19,784 [main] inetBankingV1  - username provided
+INFO    2020-11-07 16:04:19,837 [main] inetBankingV1  - passwd provided
+INFO    2020-11-07 22:51:58,888 [main] inetBankingV1  - username provided
+INFO    2020-11-07 22:51:58,924 [main] inetBankingV1  - passwd provided
+INFO    2020-11-07 22:52:15,682 [main] inetBankingV1  - login passed
+INFO    2020-11-07 22:52:18,357 [main] inetBankingV1  - username provided
+INFO    2020-11-07 22:52:18,379 [main] inetBankingV1  - passwd provided
+INFO    2020-11-07 23:00:32,255 [main] inetBankingV1  - username provided
+INFO    2020-11-07 23:00:32,301 [main] inetBankingV1  - passwd provided
+INFO    2020-11-07 23:01:06,660 [main] inetBankingV1  - login passed
+INFO    2020-11-07 23:01:10,666 [main] inetBankingV1  - username provided
+INFO    2020-11-07 23:01:10,695 [main] inetBankingV1  - passwd provided
+INFO    2020-11-07 23:14:37,673 [main] inetBankingV1  - username provided
+INFO    2020-11-07 23:14:37,709 [main] inetBankingV1  - passwd provided
+INFO    2020-11-07 23:14:49,527 [main] inetBankingV1  - inside alert method
+INFO    2020-11-07 23:14:51,782 [main] inetBankingV1  - login passed
+INFO    2020-11-07 23:14:53,908 [main] inetBankingV1  - username provided
+INFO    2020-11-07 23:14:53,935 [main] inetBankingV1  - passwd provided
+INFO    2020-11-07 23:15:00,239 [main] inetBankingV1  - inside alert method
+INFO    2020-11-07 23:18:53,605 [main] inetBankingV1  - username provided
+INFO    2020-11-07 23:18:54,333 [main] inetBankingV1  - passwd provided
+INFO    2020-11-07 23:19:04,597 [main] inetBankingV1  - inside alert method
+INFO    2020-11-07 23:19:04,622 [main] inetBankingV1  - no popup
+INFO    2020-11-07 23:19:07,010 [main] inetBankingV1  - login passed
+INFO    2020-11-07 23:19:08,589 [main] inetBankingV1  - username provided
+INFO    2020-11-07 23:19:08,612 [main] inetBankingV1  - passwd provided
+INFO    2020-11-07 23:19:14,823 [main] inetBankingV1  - inside alert method
+INFO    2020-11-07 23:21:26,904 [main] inetBankingV1  - username provided
+INFO    2020-11-07 23:21:26,941 [main] inetBankingV1  - passwd provided
+INFO    2020-11-07 23:21:39,606 [main] inetBankingV1  - inside alert method
+INFO    2020-11-07 23:21:39,620 [main] inetBankingV1  - no popup
+INFO    2020-11-07 23:21:41,732 [main] inetBankingV1  - login passed
+INFO    2020-11-07 23:21:43,205 [main] inetBankingV1  - username provided
+INFO    2020-11-07 23:21:43,231 [main] inetBankingV1  - passwd provided
+INFO    2020-11-07 23:21:49,143 [main] inetBankingV1  - inside alert method
+INFO    2020-11-08 00:03:18,055 [main] inetBankingV1  - URL is opened
+INFO    2020-11-08 00:03:21,284 [main] inetBankingV1  - Submitted data
+INFO    2020-11-08 00:03:26,294 [main] inetBankingV1  - tc pass
+INFO    2020-11-08 00:15:46,248 [main] inetBankingV1  - URL is opened
+INFO    2020-11-08 00:15:53,422 [main] inetBankingV1  - Submitted data
+INFO    2020-11-08 00:15:58,438 [main] inetBankingV1  - tc pass
+INFO    2020-11-08 00:27:01,189 [main] inetBankingV1  - URL is opened
+INFO    2020-11-09 13:24:45,433 [main] inetBankingV1  - username provided
+INFO    2020-11-09 13:24:45,517 [main] inetBankingV1  - passwd provided
+INFO    2020-11-09 13:25:20,739 [main] inetBankingV1  - inside alert method
+INFO    2020-11-09 13:33:24,202 [main] inetBankingV1  - username provided
+INFO    2020-11-09 13:33:24,841 [main] inetBankingV1  - passwd provided
+INFO    2020-11-09 13:33:36,159 [main] inetBankingV1  - inside alert method
+INFO    2020-11-09 13:33:36,222 [main] inetBankingV1  - no popup
+INFO    2020-11-09 13:33:40,830 [main] inetBankingV1  - login passed
+INFO    2020-11-09 13:33:46,562 [main] inetBankingV1  - username provided
+INFO    2020-11-09 13:33:46,628 [main] inetBankingV1  - passwd provided
+INFO    2020-11-09 13:33:56,312 [main] inetBankingV1  - inside alert method
+INFO    2020-11-09 13:45:43,881 [main] inetBankingV1  - username provided
+INFO    2020-11-09 13:45:44,436 [main] inetBankingV1  - passwd provided
+INFO    2020-11-09 13:46:21,227 [main] inetBankingV1  - no popup
+INFO    2020-11-09 13:48:48,452 [main] inetBankingV1  - username provided
+INFO    2020-11-09 13:48:48,540 [main] inetBankingV1  - passwd provided
+INFO    2020-11-09 13:49:11,509 [main] inetBankingV1  - no popup
+INFO    2020-11-09 13:49:16,513 [main] inetBankingV1  - login passed
+INFO    2020-11-09 13:49:22,221 [main] inetBankingV1  - username provided
+INFO    2020-11-09 13:49:22,302 [main] inetBankingV1  - passwd provided
+INFO    2020-11-09 13:49:30,158 [main] inetBankingV1  - User or Password is not valid
+INFO    2020-11-09 13:55:23,747 [main] inetBankingV1  - username provided
+INFO    2020-11-09 13:55:23,840 [main] inetBankingV1  - passwd provided
+INFO    2020-11-09 13:55:45,703 [main] inetBankingV1  - User or Password is not valid
+WARN    2020-11-09 13:55:45,768 [main] inetBankingV1  - login failed
+INFO    2020-11-09 13:55:53,416 [main] inetBankingV1  - username provided
+INFO    2020-11-09 13:55:53,532 [main] inetBankingV1  - passwd provided
+INFO    2020-11-09 13:56:07,745 [main] inetBankingV1  - no popup
+INFO    2020-11-09 13:56:13,449 [main] inetBankingV1  - login passed
+INFO    2020-11-09 13:56:18,317 [main] inetBankingV1  - username provided
+INFO    2020-11-09 13:56:19,547 [main] inetBankingV1  - passwd provided
+INFO    2020-11-09 13:56:27,472 [main] inetBankingV1  - User or Password is not valid
+WARN    2020-11-09 13:56:27,528 [main] inetBankingV1  - login failed
+INFO    2020-11-09 17:16:10,005 [main] inetBankingV1  - username provided
+INFO    2020-11-09 17:16:10,078 [main] inetBankingV1  - passwd provided
+INFO    2020-11-09 17:16:18,245 [main] inetBankingV1  - User or Password is not valid
+WARN    2020-11-09 17:16:18,298 [main] inetBankingV1  - login failed
+INFO    2020-11-09 20:15:16,977 [main] inetBankingV1  - username provided
+INFO    2020-11-09 20:15:18,704 [main] inetBankingV1  - passwd provided
+INFO    2020-11-09 20:15:30,286 [main] inetBankingV1  - User or Password is not valid
+WARN    2020-11-09 20:15:30,654 [main] inetBankingV1  - login failed
+INFO    2020-11-09 20:57:30,642 [main] inetBankingV1  - username provided
+INFO    2020-11-09 20:57:30,710 [main] inetBankingV1  - passwd provided
+INFO    2020-11-09 20:57:49,634 [main] inetBankingV1  - User or Password is not valid
+WARN    2020-11-09 20:57:50,081 [main] inetBankingV1  - login failed
+INFO    2020-11-10 00:15:55,026 [main] inetBankingV1  - User name is provided
+INFO    2020-11-10 00:15:55,720 [main] inetBankingV1  - Passsword is provided
+INFO    2020-11-10 00:18:31,185 [main] inetBankingV1  - User name is provided
+INFO    2020-11-10 00:18:31,256 [main] inetBankingV1  - Passsword is provided
+INFO    2020-11-10 00:18:45,735 [main] inetBankingV1  - providing customer details....
+INFO    2020-11-10 00:18:54,543 [main] inetBankingV1  - validation started....
+INFO    2020-11-10 11:01:05,823 [main] inetBankingV1  - User name is provided
+INFO    2020-11-10 11:01:05,921 [main] inetBankingV1  - Passsword is provided
+INFO    2020-11-10 11:01:14,745 [main] inetBankingV1  - providing customer details....
+INFO    2020-11-10 11:01:23,369 [main] inetBankingV1  - validation started....
+INFO    2020-11-10 11:08:04,911 [main] inetBankingV1  - User name is provided
+INFO    2020-11-10 11:08:04,947 [main] inetBankingV1  - Passsword is provided
+INFO    2020-11-10 11:08:13,461 [main] inetBankingV1  - providing customer details....
+INFO    2020-11-10 11:08:29,057 [main] inetBankingV1  - validation started....
+INFO    2020-11-10 11:08:29,069 [main] inetBankingV1  - test case failed....
+INFO    2020-11-10 13:02:44,121 [main] inetBankingV1  - URL is opened
+INFO    2020-11-10 13:02:52,505 [main] inetBankingV1  - Submitted data
+INFO    2020-11-10 13:02:57,518 [main] inetBankingV1  - tc pass
+INFO    2020-11-10 13:18:27,606 [main] inetBankingV1  - URL is opened
+INFO    2020-11-10 13:18:33,117 [main] inetBankingV1  - Submitted data
+INFO    2020-11-10 13:18:38,129 [main] inetBankingV1  - tc pass
+INFO    2020-11-10 14:47:17,902 [main] inetBankingV1  - URL is opened
+INFO    2020-11-10 14:47:48,230 [main] inetBankingV1  - Submitted data
+INFO    2020-11-10 14:50:40,148 [main] inetBankingV1  - URL is opened
+INFO    2020-11-10 14:51:10,519 [main] inetBankingV1  - Submitted data
+INFO    2020-11-10 15:26:31,294 [main] inetBankingV1  - URL is opened
+INFO    2020-11-10 15:27:01,642 [main] inetBankingV1  - Submitted data
+INFO    2020-11-10 15:27:06,656 [main] inetBankingV1  - tc pass
+INFO    2020-11-10 17:13:18,012 [main] inetBankingV1  - URL is opened
+INFO    2020-11-10 17:13:21,261 [main] inetBankingV1  - Submitted data
+INFO    2020-11-10 17:13:26,275 [main] inetBankingV1  - tc pass
+INFO    2020-11-10 17:36:50,631 [main] inetBankingV1  - URL is opened
+INFO    2020-11-10 17:36:56,176 [main] inetBankingV1  - Submitted data
+INFO    2020-11-10 17:37:01,185 [main] inetBankingV1  - tc pass
+INFO    2020-11-10 17:57:49,476 [main] inetBankingV1  - URL is opened
+INFO    2020-11-10 17:57:54,247 [main] inetBankingV1  - Submitted data
+INFO    2020-11-10 17:57:59,254 [main] inetBankingV1  - tc pass
+INFO    2020-11-11 20:40:05,179 [main] inetBankingV1  - User name is provided
+INFO    2020-11-11 20:40:05,272 [main] inetBankingV1  - Passsword is provided
+INFO    2020-11-11 20:40:42,973 [main] inetBankingV1  - providing customer details....
+INFO    2020-11-11 20:40:59,169 [main] inetBankingV1  - validation started....
+INFO    2020-11-11 20:54:50,765 [main] inetBankingV1  - User name is provided
+INFO    2020-11-11 20:54:50,855 [main] inetBankingV1  - Passsword is provided
+INFO    2020-11-11 20:55:03,811 [main] inetBankingV1  - providing customer details....
+INFO    2020-11-11 20:55:20,064 [main] inetBankingV1  - validation started....
+INFO    2020-11-11 21:05:50,868 [main] inetBankingV1  - User name is provided
+INFO    2020-11-11 21:05:50,947 [main] inetBankingV1  - Passsword is provided
+INFO    2020-11-11 21:06:33,354 [main] inetBankingV1  - providing customer details....
+INFO    2020-11-11 21:06:50,243 [main] inetBankingV1  - validation started....
+INFO    2020-11-11 21:11:43,619 [main] inetBankingV1  - User name is provided
+INFO    2020-11-11 21:11:44,336 [main] inetBankingV1  - Passsword is provided
+INFO    2020-11-11 21:12:17,260 [main] inetBankingV1  - providing customer details....
+INFO    2020-11-11 21:12:33,392 [main] inetBankingV1  - validation started....

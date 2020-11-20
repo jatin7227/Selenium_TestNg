@@ -1,0 +1,64 @@
+package com.inetbanking.utilities;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.util.Properties;
+
+public class ReadConfig {
+
+	Properties pro;
+	
+	public ReadConfig()
+	{
+		File src = new File("C:\\Users\\JA360511\\eclipse-workspace\\inetBankingV1\\Configuration\\config.properties");
+		
+		try {
+			FileInputStream fis=new FileInputStream(src);
+			pro=new Properties();
+			pro.load(fis);
+			
+		}catch(Exception e) {
+			System.out.println("exception"+e.getMessage());
+		}
+	}
+	
+	public String getApplicationURL()
+	{
+		String url=pro.getProperty("baseURL");
+		return url;
+		
+	}
+	public String getUsername()
+	{
+		String username=pro.getProperty("username");
+		return username;
+		
+	}
+	public String getPassword()
+	{
+		String password=pro.getProperty("password");
+		return password;
+		
+	}
+	
+	public String getPath()
+	{
+		String path=pro.getProperty("path");
+		return path;
+		
+	}
+	public String getPath2()
+	{
+		String path2=pro.getProperty("path2");
+		return path2;
+		
+	}
+	public String getPath3()
+	{
+		String path3=pro.getProperty("path3");
+		return path3;
+		
+	}
+
+
+}
